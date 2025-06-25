@@ -6,11 +6,9 @@ DirecTV Login: Complete Guide to Account Access and Management
    :caption: Contents:
 
 
-.. |login-button| image:: https://img.shields.io/badge/Login%20Now-ACLog%20Portal-0066CC?style=for-the-badge&logo=login&logoColor=white
-:alt: Login Now
-:target: https://aclogportal.com/
-|login-button|_
-.. _login-button: https://aclogportal.com/
+.. image:: https://img.shields.io/badge/Login%20Now-blue?style=for-the-badge&logo=sign-in-alt&logoColor=white
+   :target: https://aclogportal.com/directv-login
+   :alt: Login Now Button
 
 
 
